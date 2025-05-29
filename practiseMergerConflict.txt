@@ -1,0 +1,1 @@
+First line from branch new in local repo
