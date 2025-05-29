@@ -2,3 +2,5 @@ First line from branch new in local repo
 
 Second line from branch new in local repo
 
+third line from branch new in local repo
+
